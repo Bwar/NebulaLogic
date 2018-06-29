@@ -1,6 +1,6 @@
 /*******************************************************************************
-* Project:  Beacon
-* @file     Beacon.cpp
+* Project:  NebulaLogic
+* @file     Logic.cpp
 * @brief 
 * @author   bwar
 * @date:    Apr 7, 2018
